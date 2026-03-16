@@ -9,10 +9,9 @@ El dataset analizado contiene 15,420 registros y 34 variables, combinando datos 
 
 ## 🔑 Puntos Clave del Proyecto
 
-El dataset contiene 15,420 registros y 34 variables.
+· El dataset contiene 15,420 registros y 34 variables.
 
-Se identificaron valores faltantes en las columnas:
-
+· Se identificaron valores faltantes en las columnas:
 MaritalStatus
 AccidentArea
 
@@ -43,7 +42,7 @@ Seaborn – Análisis visual y gráficos estadísticos
 
 Jupyter Notebook – Desarrollo del análisis
 
-📊 Estrategias Propuestas
+## 📊 Estrategias Propuestas
 
 A partir del análisis exploratorio realizado, se proponen las siguientes estrategias para mejorar el análisis y el desarrollo de modelos predictivos:
 
