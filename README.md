@@ -1,5 +1,5 @@
 ## 🚗 Análisis Exploratorio de Fraude en Seguros
-##📄 Descripción del Proyecto
+## 📄 Descripción del Proyecto
 
 Este proyecto consiste en un Análisis Exploratorio de Datos (EDA) sobre un dataset de fraude en seguros con el objetivo de comprender su estructura, evaluar la calidad de los datos e identificar patrones relevantes relacionados con posibles casos de fraude.
 
@@ -7,14 +7,13 @@ El análisis examina características de las pólizas, información del conducto
 
 El dataset analizado contiene 15,420 registros y 34 variables, combinando datos numéricos y categóricos relacionados con pólizas de seguro y siniestros.
 
-🔑 Puntos Clave del Proyecto
+## 🔑 Puntos Clave del Proyecto
 
 El dataset contiene 15,420 registros y 34 variables.
 
 Se identificaron valores faltantes en las columnas:
 
 MaritalStatus
-
 AccidentArea
 
 No se detectaron registros duplicados, lo que indica una buena consistencia estructural.
@@ -22,7 +21,6 @@ No se detectaron registros duplicados, lo que indica una buena consistencia estr
 Se identificaron valores atípicos (outliers) principalmente en:
 
 Deductible
-
 DriverRating
 
 La distribución de edades muestra que la mayoría de asegurados se encuentran entre 25 y 50 años, rango típico de población económicamente activa.
@@ -31,7 +29,7 @@ Los accidentes se concentran mayormente en zonas urbanas, lo cual es consistente
 
 La calidad general de los datos es adecuada para análisis y modelado, aunque se recomienda tratar valores nulos y validar outliers.
 
-🛠️ Herramientas Utilizadas
+## 🛠️ Herramientas Utilizadas
 
 Python
 
