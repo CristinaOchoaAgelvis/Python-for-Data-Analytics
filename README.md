@@ -68,4 +68,4 @@ A partir del análisis exploratorio realizado, se proponen las siguientes estrat
 
 · Random Forest
 
-Gradient Boosting
+· Gradient Boosting
